@@ -1,0 +1,43 @@
+Project Name- Employee_Management
+Languages used- HTML,Bootstrap,JavaScript,jQuery
+tool: Vs-Code,Live Server,chrome etc...
+
+User Requirements:
+1. Popup on submit button
+2. popup on duplicate entry in email
+3. All fields are mandatory
+4. Show data at the right side of page using delete button
+5. On click on delete btn pop will appear in form of boolean(yes/no) 
+
+PHASE:1 UI Design
+
+1. create work space
+2. create index.html file
+3. we use bootstrap boiler plate
+4. verify bootstrap
+5. design form
+6. design table headder
+
+PHASE 2: Functionality
+1. Console the form data
+2. conver form data into a js object
+3. create empty js Array[]
+4. Push the object into js Array[]
+5. Iterate the Array
+6. Create HTML string 
+7. Inject into DOM 
+8. Click on delete button(popup will appear (yes/no))
+9. Rander the table
+10.JSON Structure:
+	{
+	fname:"__"
+	lname:"__"
+	email:"__"
+	password:"__"
+	}
+
+PHASE 3: Validation
+1. All Field are mandatory
+2. Duplicate mail ID
+3. Encryption
+4. Email Formate
